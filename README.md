@@ -1,2 +1,2 @@
-# Gestion_HumanaIUD
+# RecursosHumanosUD
 Actividad 1
